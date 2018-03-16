@@ -1,5 +1,5 @@
 {
-  "name": "goetas-webservices/xsd2php-runtime",
+  "name": "oktron/xsd2php-runtime",
   "description": "Convert XSD  (XML Schema) definitions into PHP classes",
   "type": "library",
   "authors": [
